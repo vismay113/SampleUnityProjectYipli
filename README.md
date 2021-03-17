@@ -1,4 +1,5 @@
-# SampleUnityProjectYipli Project Description
+# SampleUnityProjectYipli 
+## Project Description
 for github structure references.
 Check the above folder structer. That should be the folder structure. And no other gitignore file is allowed.
 
